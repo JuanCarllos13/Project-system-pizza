@@ -31,7 +31,7 @@ Para o desenvolvimento deste site utilizei as seguintes tecnologias:
 - Prisma
 - Next.js
 - React.js
-- Posgtres
+- Postgres
 - TypeScript
 
 ---
