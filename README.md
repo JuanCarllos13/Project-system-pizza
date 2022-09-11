@@ -12,13 +12,7 @@ https://user-images.githubusercontent.com/86435195/189507321-944750c7-dee1-401a-
 
 ## ❓ O que é ?
 
-Este é um repositório no qual se encontra a parte Front-end de uma aplicação. 
-
-<hr>
-
-## 🎯 Objetivo
-
-Esse projeto tem como objetivo, Sistema de pedidos de uma pizzaria, onde o garçom ira fazer o pedido no cliente no celular e o pedido ira aparacer no sistema web, para quem estiver fazendo o pedido ver
+Esse projeto é sistema de pedidos de uma pizzaria, onde o garçom ira fazer o pedido no cliente no celular e o pedido ira aparacer no sistema web, para quem estiver fazendo o pedido ver.
 
 <hr>
 
