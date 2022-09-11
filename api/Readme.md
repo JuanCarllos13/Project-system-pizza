@@ -10,7 +10,7 @@ https://user-images.githubusercontent.com/86435195/189507321-944750c7-dee1-401a-
 
 ## ❓ O que é ?
 
-Este é um repositório no qual se encontra a parte Front-end de uma aplicação. Faço um clone desse Repositório e der o comando "yarn" para instalar todas os pacotes e dependências do projeto, em seguindo um "expo start" para executar o projeto.
+Este é um repositório no qual se encontra a Back-end dá aplicação. Faço um clone desse Repositório e der o comando "yarn" para instalar todas os pacotes e dependências do projeto, em seguindo um "yarn start" para executar o projeto.
 
 <hr>
 
@@ -20,22 +20,15 @@ Esse projeto tem como objetivo, Sistema de pedidos de uma pizzaria, onde o garç
 
 <hr>
 
-## 📚 Seções
-- **Login:** Login do usuário
-- **Home:** Nele é o onde o usuário irar dizer o numero da mesa dele e qual o pedido ele deseja fazer, quando ele confirmar o pedido, ira aparecer na aplicação web.
-
 ## 💼 Tecnologias utilizadas
 
 Para o desenvolvimento deste site utilizei as seguintes tecnologias:
 
-- HTML;
-- CSS;
-- Styled-components
+- Node.js;
+- TypeSctipt;
+- Posgtress
 - JavaScript;
-- React Native;
-- Expo
-- API
-
+- Prisma
 ---
 
 ## 👨‍💻 Autor
