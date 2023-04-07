@@ -12,7 +12,14 @@ https://user-images.githubusercontent.com/86435195/189507321-944750c7-dee1-401a-
 
 ## ❓ O que é ?
 
-Esse projeto é sistema de pedidos de uma pizzaria, onde o garçom ira fazer o pedido no cliente no celular e o pedido ira aparacer no sistema web, para quem estiver fazendo o pedido ver.
+
+Apresento a vocês o meu projeto de sistema de pedidos de pizzaria, desenvolvido para demonstrar minhas habilidades em programação ao longo da minha carreira. Este sistema permite que os garçons façam pedidos de pizza diretamente do celular do cliente, enquanto o pedido aparece simultaneamente no sistema web para a equipe da cozinha preparar.
+
+O sistema é construído usando uma variedade de tecnologias, incluindo HTML, CSS e Sass para a estrutura e design da página web, React Native e Expo para criar a interface do usuário do aplicativo móvel para o garçom, API, Node e Prisma para gerenciar o banco de dados e a comunicação entre o aplicativo móvel e o sistema web, além de Next.js, React.js, Postgres e TypeScript para o desenvolvimento do sistema web em si.
+
+Essa solução inovadora não apenas aumenta a eficiência dos pedidos de pizza, mas também torna a experiência do cliente mais agradável. A equipe da cozinha pode preparar os pedidos de forma mais eficiente, garantindo que os clientes recebam suas pizzas mais rapidamente e com menos erros. A interface amigável do aplicativo para celular torna a experiência de pedir pizza fácil e conveniente para o cliente.
+
+Estou muito orgulhoso deste projeto e espero que vocês apreciem a tecnologia por trás dele tanto quanto eu!
 
 <hr>
 
