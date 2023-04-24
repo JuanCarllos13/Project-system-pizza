@@ -6,9 +6,7 @@
   Projeto criado com o intuito de mostrar meus conhecimentos ao decorrer da minha carreira.
 </h4>
 
-https://user-images.githubusercontent.com/86435195/189507321-944750c7-dee1-401a-96cd-0b861b95f4bb.mp4
-
-
+https://user-images.githubusercontent.com/86435195/234053650-4d9a69b1-a7a3-409b-82ea-57262d2b80d5.mp4
 
 ## ❓ O que é ?
 
