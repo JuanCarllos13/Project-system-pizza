@@ -1,0 +1,13 @@
+# Criar imagem no docker: docker run --name api-pizza-pg -e POSTGRESQL_USERNAME=docker -e POSTGRESQL_PASSWORD=docker -e POSTGRESQL_DATABASE=pizza -p 5432:5432 bitnami/postgresql
+
+version: '3'
+
+services:
+  pizza-sujeito-pg:
+    image: bitnami/postgresql
+    ports:
+      - 5432:5432
+    environment:
+      - POSTGRESQL_USERNAME=postgres
+      - POSTGRESQL_PASSWORD=admin
+      - POSTGRESQL_DATABASE=pizza
